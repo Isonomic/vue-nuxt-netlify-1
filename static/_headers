@@ -1,5 +1,0 @@
-/sw.js
-  Cache-Control: no-cache
-/assets/*
-   # Headers for that path:
-   Cache-Control: public, max-age=360000 
